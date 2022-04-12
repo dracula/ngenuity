@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [HyperX NGNUITY](https://hyperx.com/pages/ngenuity)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dracula theme for [HyperX NGNUITY](https://hyperx.com/pages/ngenuity).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/ngenuity](https://draculatheme.com/ngenuity).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Eduardo Vilke](https://github.com/eduardovilke.png?size=100)](https://github.com/eduardovilke) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Eduardo Vilke](https://github.com/eduardovilke)|
 
 ## Community
 

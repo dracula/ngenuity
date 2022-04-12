@@ -1,17 +1,12 @@
-### [Foobar](https://foobar.com)
+### [HyperX NGNUITY](https://hyperx.com/pages/ngenuity)
 
-#### Install using Git
+### Download
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Download the file available in the theme folder, and extract it
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Click on Presets in the upper right corner
+2. Click on Add and select the extracted file
+
+Done! ✨ 🎉
