@@ -2,7 +2,7 @@
 
 > A dracula theme for [HyperX NGNUITY](https://hyperx.com/pages/ngenuity).
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
