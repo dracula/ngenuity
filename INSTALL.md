@@ -1,8 +1,8 @@
-### [HyperX NGNUITY](https://hyperx.com/pages/ngenuity)
+### [HyperX NGENUITY](https://hyperx.com/pages/ngenuity)
 
-### Download
+#### Install manually
 
-Download the file available in the theme folder, and extract it
+1. Download using the [GitHub .zip download](https://github.com/dracula/ngenuity/archive/master.zip) option and unzip the `theme/dracula.hxp.zip` file.
 
 #### Activating theme
 

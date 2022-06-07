@@ -1,6 +1,6 @@
-# Dracula for [HyperX NGNUITY](https://hyperx.com/pages/ngenuity)
+# Dracula for [HyperX NGENUITY](https://hyperx.com/pages/ngenuity)
 
-> A dracula theme for [HyperX NGNUITY](https://hyperx.com/pages/ngenuity).
+> A dracula theme for [HyperX NGENUITY](https://hyperx.com/pages/ngenuity).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/ngenuity](https://draculathem
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ngenuity/graphs/contributors).
 
 | [![Eduardo Vilke](https://github.com/eduardovilke.png?size=100)](https://github.com/eduardovilke) |
 | ---------------------------------------------------------------------------------------- |
